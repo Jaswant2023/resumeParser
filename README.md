@@ -107,6 +107,3 @@ Here is a demo of the resume parser in action:
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [NLTK](https://www.nltk.org/)
 
-## Contact Information
-
-For any inquiries, please contact Vedant Pimple at [vedantpimple1775@gmail.com](mailto:vedantpimple1775@gmail.com).
